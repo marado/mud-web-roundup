@@ -50,3 +50,11 @@ Site [dead]: [http://duckclient.com/](http://duckclient.com/)
 Site: [https://chrome.google.com/webstore/detail/duckclient/ghdjfcifcempcjefhonfpafmpelnmkho?hl=en-US](https://chrome.google.com/webstore/detail/duckclient/ghdjfcifcempcjefhonfpafmpelnmkho?hl=en-US)
 
 Chrome App
+
+## DecafMUD ##
+Site: [http://decafmud.stendec.me/](http://decafmud.stendec.me/)
+
+Bitbucket: [https://bitbucket.org/stendec/decafmud]
+
+## WebMU ##
+GitLab: [https://gitlab.com/hlieberman/webmu](https://gitlab.com/hlieberman/webmu)
