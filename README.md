@@ -32,14 +32,14 @@ GitHub: [https://github.com/blueoctopus/hMUD](https://github.com/blueoctopus/hMU
 Javascript + Flash
 
 ## Mudslinger ##
-BitBucket: [https://bitbucket.org/Odoth/mudslinger](https://bitbucket.org/Odoth/mudslinger)
+Bitbucket: [https://bitbucket.org/Odoth/mudslinger](https://bitbucket.org/Odoth/mudslinger)
 
 Demo: [http://mudslinger.rooflez.com/](http://mudslinger.rooflez.com/)
 
 Typescript
 
 ## Wedgetail ##
-BitBucket: [https://bitbucket.org/orvy/wedgetail](https://bitbucket.org/orvy/wedgetail)
+Bitbucket: [https://bitbucket.org/orvy/wedgetail](https://bitbucket.org/orvy/wedgetail)
 
 ## dome-client.js ##
 GitHub: [https://github.com/JavaChilly/dome-client.js](https://github.com/JavaChilly/dome-client.js)
