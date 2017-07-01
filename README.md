@@ -1,6 +1,10 @@
 # MUD WEB CLIENT ROUNDUP #
 
-Info about various browser based mud clients. No particular order.
+Info about various browser based mud clients. No particular order. 
+
+Some are general purpose/open source clients.
+
+Some are mud specific and included in the list for reference and general info.
 
 ## Mudportal ##
 Site: [http://www.mudportal.com/](http://www.mudportal.com/)
@@ -63,3 +67,11 @@ Erlang and Javascript
 
 ## ChroMUD ##
 Site: [http://chromud.whiteraventechnology.com/](http://chromud.whiteraventechnology.com/)
+
+## OoMud ##
+Site: [http://shadowmudii.genesismuds.com/help.php?category=player+general&topic=oomud](http://shadowmudii.genesismuds.com/help.php?category=player+general&topic=oomud)
+
+[http://www.shadowmud.com/mud.php](http://www.shadowmud.com/mud.php)
+
+OoMUD is the ShadowMUD web client, it offers triggers, alaises, and macros, 
+split up using a profile system to allow you to organize them in anyway you like.
