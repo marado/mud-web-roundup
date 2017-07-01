@@ -60,10 +60,15 @@ Site: [http://decafmud.stendec.me/](http://decafmud.stendec.me/)
 
 Bitbucket: [https://bitbucket.org/stendec/decafmud]
 
-## WebMU ##
+## WebMU [hlieberman] ##
 GitLab: [https://gitlab.com/hlieberman/webmu](https://gitlab.com/hlieberman/webmu)
 
 Erlang and Javascript
+
+## WebMU [Cheese Software]
+Site: [http://www.cheesesoftware.com/MuConHelp.html](http://www.cheesesoftware.com/MuConHelp.html)
+
+Demo: [http://www.cheesesoftware.com/MUCon/](http://www.cheesesoftware.com/MUCon/)
 
 ## ChroMUD ##
 Site: [http://chromud.whiteraventechnology.com/](http://chromud.whiteraventechnology.com/)
