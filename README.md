@@ -60,3 +60,6 @@ Bitbucket: [https://bitbucket.org/stendec/decafmud]
 GitLab: [https://gitlab.com/hlieberman/webmu](https://gitlab.com/hlieberman/webmu)
 
 Erlang and Javascript
+
+## ChroMUD ##
+Site: [http://chromud.whiteraventechnology.com/](http://chromud.whiteraventechnology.com/)
