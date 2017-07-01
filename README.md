@@ -79,3 +79,6 @@ split up using a profile system to allow you to organize them in anyway you like
 Related project: jiMUD
 
 [https://github.com/icewolfz/jiMUD](https://github.com/icewolfz/jiMUD)
+
+## Waterdeep Web Client ##
+Site: [https://client.waterdeep.info/](https://client.waterdeep.info/)
