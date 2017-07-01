@@ -75,3 +75,7 @@ Site: [http://shadowmudii.genesismuds.com/help.php?category=player+general&topic
 
 OoMUD is the ShadowMUD web client, it offers triggers, alaises, and macros, 
 split up using a profile system to allow you to organize them in anyway you like.
+
+Related project: jiMUD
+
+[https://github.com/icewolfz/jiMUD](https://github.com/icewolfz/jiMUD)
