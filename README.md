@@ -87,3 +87,8 @@ Related project: jiMUD
 
 ## Waterdeep Web Client ##
 Site: [https://client.waterdeep.info/](https://client.waterdeep.info/)
+
+## noMUDde ##
+GitHub: [https://github.com/FLWFTW/noMUDde](https://github.com/FLWFTW/noMUDde)
+
+Demo: [http://www.darkstonemud.com:8080/](http://www.darkstonemud.com:8080/)
