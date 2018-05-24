@@ -92,3 +92,6 @@ Site: [https://client.waterdeep.info/](https://client.waterdeep.info/)
 GitHub: [https://github.com/FLWFTW/noMUDde](https://github.com/FLWFTW/noMUDde)
 
 Demo: [http://www.darkstonemud.com:8080/](http://www.darkstonemud.com:8080/)
+
+## Threshold Javascript Client ##
+Site: [http://www.thresholdrpg.com/client-new/index.php](http://www.thresholdrpg.com/client-new/index.php)
