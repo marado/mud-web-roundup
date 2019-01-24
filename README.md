@@ -95,3 +95,8 @@ Demo: [http://www.darkstonemud.com:8080/](http://www.darkstonemud.com:8080/)
 
 ## Threshold Javascript Client ##
 Site: [http://www.thresholdrpg.com/client-new/index.php](http://www.thresholdrpg.com/client-new/index.php)
+
+## The Last Outpost Web Client ##
+Site: [https://www.last-outpost.com:4003/](https://www.last-outpost.com:4003/)
+
+Based on Shell In A Box.
