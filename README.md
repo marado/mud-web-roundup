@@ -36,7 +36,7 @@ GitHub: [https://github.com/blueoctopus/hMUD](https://github.com/blueoctopus/hMU
 Javascript + Flash
 
 ## Mudslinger ##
-Bitbucket: [https://bitbucket.org/Odoth/mudslinger](https://bitbucket.org/Odoth/mudslinger)
+GitHub: [https://github.com/Odoth/mudslinger](https://bitbucket.org/Odoth/mudslinger)
 
 Demo: [http://mudslinger.rooflez.com/](http://mudslinger.rooflez.com/)
 
